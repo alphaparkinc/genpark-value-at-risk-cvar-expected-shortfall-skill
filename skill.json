@@ -1,0 +1,9 @@
+{
+  "name": "genpark-value-at-risk-cvar-expected-shortfall-skill",
+  "version": "1.0.0",
+  "description": "Portfolio Value-at-Risk (VaR) and Conditional VaR (Expected Shortfall) engine calculating tail risk across parametric and historical loss distributions.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
